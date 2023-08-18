@@ -33,9 +33,6 @@ Follow these steps to set up the Calculator project on your system:
    cd calculator-project
    ```
 
-3. **Install Dependencies**: If the project has any dependencies, install them using the appropriate package manager. You might need Node.js, Python, or other tools, depending on the project requirements.
-
-4. **Build the Project**: If required, build the project by executing build scripts or commands.
 
 ## Usage
 
@@ -45,7 +42,7 @@ Follow these steps to set up the Calculator project on your system:
    ./run_calculator
    ```
 
-2. **Input Values**: Enter numerical values using the keyboard or any input mechanism provided by the application.
+2. **Input Values**: Enter numerical values using the keyboard.
 
 3. **Select Operation**: Use the provided buttons or commands to select the desired arithmetic operation (addition, subtraction, multiplication, division).
 
@@ -57,4 +54,4 @@ Follow these steps to set up the Calculator project on your system:
 
 This project is developed as part of my internship at Codsoft and is not open to external contributions at this time.
 
-Thank you for contributing to the Calculator project during your internship at Codsfot. Your efforts in developing this application are greatly appreciated!
+
